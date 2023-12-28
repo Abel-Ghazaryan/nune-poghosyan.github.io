@@ -193,7 +193,7 @@
 
 .myDiv{
     width: 400px;
-    height: 500px;
+    height: 525px;
     margin-left: 20px;
     display: flex;
     flex-direction: column;
@@ -624,7 +624,7 @@ footer{
 
     .myDiv{
         width: 290px;
-        height: 700px;
+        height: 720px;
     }
 
     .myDiv p{
